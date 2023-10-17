@@ -1,0 +1,9 @@
+name: cpplint
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: arduino/arduino-lint-action
+        uses: arduino/arduino-lint-action@v1.0.0
+        uses: arduino/arduino-lint-action@master

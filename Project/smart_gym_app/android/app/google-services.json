@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239713380824",
+    "firebase_url": "https://scmu-3a5ac-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "scmu-3a5ac",
+    "storage_bucket": "scmu-3a5ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239713380824:android:878d0dd9f246aadca4eaad",
+        "android_client_info": {
+          "package_name": "com.example.smart_gym"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239713380824-jv4u37qk65c5cmhmk13i32dvsjdm6hci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo0FkdznjujNFZxoBPTyK3PGSYyqx76ZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239713380824-jv4u37qk65c5cmhmk13i32dvsjdm6hci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
